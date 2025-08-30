@@ -177,3 +177,6 @@ Always back up your vault file securely — if you forget the master password, d
 # License
 
 MIT License © 2024 Musthafa Vakkayil
+
+### Submit a pull request
+If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
