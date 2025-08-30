@@ -1,6 +1,25 @@
 # Passman — Encrypted CLI Password Manager
 
 A simple, secure command-line password manager written in Python.  
+
+## Why Use Passman?
+
+Most password managers are either cloud-based (raising privacy concerns) or bloated with features you may never use. Passman is different:
+
+🛡️ 100% Local & Offline — Your vault lives on your machine, not on someone else’s server.
+
+🔐 Strong Encryption — Every secret is encrypted with AES (via Fernet), protected by a PBKDF2-derived master key.
+
+⚡ Lightweight & Fast — A single SQLite file, no background services, no syncing overhead.
+
+💻 CLI First — Perfect for developers, sysadmins, or anyone who lives in the terminal.
+
+🔑 Full Control — No subscriptions, no hidden processes, no vendor lock-in. You own your data.
+
+🧩 Hackable & Extendable — Built in Python with a clean modular design; easy to audit or extend.
+
+Passman is ideal if you want a minimal, transparent, and secure password manager that just does the essentials — nothing more, nothing less.
+
 It uses:
 
 - **SQLite** for storage
